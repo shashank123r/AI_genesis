@@ -108,7 +108,7 @@ pip install -r requirements.txt
 - Research organizations (.org domains)
 
  Model Configuration
-The application uses Googles FLAN-T5-Large model for local processing and Groqs Llama models for advanced reasoning tasks.
+The application uses Googles FLAN-T5-Large model for local processing and Groqs Llama models for advanced reasoning tasks
 
  API Keys
 
