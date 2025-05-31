@@ -76,12 +76,6 @@ pip install -r requirements.txt
 - Get contextual answers with source citations
 - Perfect for quick fact-checking and concept clarification
 
- Generate Practice Exam Tab
-- Create customized practice exams
-- Specify topics or generate comprehensive exams
-- Adjust the number of questions (1-20)
-- Includes explanations for each answer
-
  Generate Materials Tab
 - Summaries: Create topic-specific or general document summaries
 - Flashcards: Generate study flashcards with questions and answers
@@ -119,7 +113,7 @@ The application uses Googles FLAN-T5-Large model for local processing and Groqs 
  API Keys
 
  Groq API Key
-1. Visit [Groq Console](https://console.groq.com/)
+1. Get your API key through the website
 2. Create an account or sign in
 3. Generate a new API key
 4. Enter the key in the Setup tab
