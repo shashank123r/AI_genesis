@@ -223,7 +223,7 @@ Acknowledgments
 Support
 
 For support, issues, or feature requests:
-- Open an issue on GitHub
+- Open an issue on the GitHub
 - Check the troubleshooting section above
 - Review the documentation and examples
 
