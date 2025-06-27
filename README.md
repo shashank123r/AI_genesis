@@ -11,7 +11,6 @@ An advanced AI-powered study companion that combines document processing, resear
 - Topic Summarization: Generate comprehensive summaries on specific topics or entire document collections
 
  Study Materials Generation
-- Practice Exams: Create customized practice exams with multiple-choice questions, explanations, and difficulty levels
 - Flashcards: Generate interactive flashcards from your documents or specific topics
 - File-Based Content: Create study materials directly from PDF, DOCX, and PPTX files
 
